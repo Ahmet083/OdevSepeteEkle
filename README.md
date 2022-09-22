@@ -1,3 +1,3 @@
 hocam yapamadim
 
-![] (gif.gif)
+![](gif.gif)
